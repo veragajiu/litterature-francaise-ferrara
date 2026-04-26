@@ -47,7 +47,7 @@ Le cours se compose de **15 séances** organisées en quatre ensembles compléme
 Ce dépôt regroupe les **8 séances thématiques** consacrées à la question des maternités queer et des contre-discours juridiques. Les autres ensembles relèvent de modules pédagogiques distincts ou d'événements scientifiques autonomes :
 
 - L'**excursus introductif** (séances 1–2) propose un panorama de la littérature française du XXᵉ siècle qui sert de cadre historique général au cours.
-- Le **séminaire d'autothéorie** (séances 5–8, module Mistreanu) explore les écritures de soi contemporaines comme dispositif théorique. Ce module fait l'objet d'un suivi pédagogique séparé.
+- Le **séminaire d'autothéorie** (séances 5–8, Mistreanu) explore les écritures de soi contemporaines comme dispositif théorique. Ce module fait l'objet d'un suivi pédagogique séparé.
 - Le **colloque international du 13 mars 2026**, « Refus de maternité : corps, langues et imaginaires queer en français (XXᵉ–XXIᵉ siècles) », fait l'objet d'un dépôt GitHub dédié : [colloque-refus-de-maternite-ferrara-2026](https://github.com/veragajiu/colloque-refus-de-maternite-ferrara-2026).
 
 ## Calendrier détaillé des séances thématiques
