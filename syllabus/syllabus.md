@@ -40,7 +40,7 @@ Le cours se compose de **15 séances** organisées en quatre ensembles compléme
 | 10 | 26 mars 2026 | **Séance thématique** : Bureau | Oui |
 | 11 | 27 mars 2026 | **Séance thématique** : Debré | Oui |
 | 12–13 | 9–10 avril 2026 | **Séances thématiques** : Legendre | Oui |
-| 14 | 30 avril 2026 | **Séance thématique** : Harmange | Oui |
+| 14 | 17 avril 2026 | **Séance thématique** : Harmange | Oui |
 
 ## Périmètre du présent dépôt
 
