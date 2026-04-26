@@ -10,13 +10,22 @@ Matériel pédagogique du cours de Littérature française dispensé à l'Univer
 
 Le cours explore les représentations littéraires de la maternité queer et du non-désir d'enfant dans la littérature française contemporaine, en dialogue avec les contre-discours juridiques sur la reproduction, l'avortement et la filiation.
 
+## Périmètre du dépôt
+Ce dépôt regroupe les **supports des séances thématiques** (8 séances sur 15) consacrées aux maternités queer et aux contre-discours juridiques. Les séances introductives (excursus sur la littérature française du XXᵉ siècle) et le module Mistreanu, qui font partie du même cours, ne figurent pas dans ce dépôt.
+
 ## Contenu du dépôt
-- `syllabus/` — programme détaillé et calendrier des séances
-- `bibliographie/` — bibliographie primaire et critique
-- `supports/` — diapositives et documents distribués en cours
+- `supports/` — diapositives des séances thématiques (PDF)
+  1. Beauvoir et Veil
+  2. Halimi
+  3. Bureau
+  4. Debré
+  5. Legendre
+  6. Harmange
+
+*Le syllabus complet et la bibliographie seront ajoutés prochainement.*
 
 ## Public
-Étudiants de Licence en Langues et littératures étrangères.
+Étudiants de Licence, 2ème année, en Langues et littératures étrangères.
 
 ## Enseignante
 Vera Gajiu — [vera.gajiu@unife.it](mailto:vera.gajiu@unife.it)
