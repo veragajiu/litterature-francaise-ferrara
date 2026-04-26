@@ -84,7 +84,11 @@ Lecture du recueil collectif *Nullipares* en quatre temps : (i) présentation co
 
 ## Modalités d'évaluation
 
-L'évaluation prend la forme d'un **examen oral** portant sur l'ensemble des contenus du cours. L'étudiant·e devra démontrer sa connaissance des œuvres au programme, sa capacité d'analyse littéraire et sa familiarité avec les cadres théoriques abordés en classe.
+L'évaluation prend la forme d'un **examen oral en cours de semestre** (*esame in itinere*), à l'issue des séances thématiques. L'étudiant·e devra démontrer sa connaissance des œuvres au programme, sa capacité d'analyse littéraire et sa familiarité avec les cadres théoriques abordés en classe.
+
+**Dates de l'examen :** 14 et 15 mai 2026.
+
+Le programme demeure inchangé pour les étudiant·e·s non frequentanti, qui pourront se présenter aux sessions d'examen ordinaires.
 
 ## Ressources critiques et multimédia
 
