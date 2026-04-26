@@ -34,7 +34,7 @@ Le cours se compose de **15 séances** organisées en quatre ensembles compléme
 |---------|------|----------|----------------------|
 | 1–2 | 26–27 février 2026 | Excursus : littérature française du XXᵉ siècle | Non |
 | 3–4 | 5–6 mars 2026 | **Séances thématiques** : Beauvoir & Veil | Oui |
-| 5–8 | 9–12 mars 2026 | Séminaire d'autothéorie (module Mistreanu) | Non |
+| 5–8 | 9–12 mars 2026 | Séminaire d'autothéorie | Non |
 | — | 13 mars 2026 | Colloque international « Refus de maternité » | [Dépôt dédié](https://github.com/veragajiu/colloque-refus-de-maternite-ferrara-2026) |
 | 9 | 20 mars 2026 | **Séance thématique** : Halimi | Oui |
 | 10 | 26 mars 2026 | **Séance thématique** : Bureau | Oui |
