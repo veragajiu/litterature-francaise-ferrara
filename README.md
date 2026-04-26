@@ -1,6 +1,6 @@
 # Littérature française – Université de Ferrare
 
-Matériel pédagogique du cours de Littérature française dispensé à l'Université de Ferrare (Département des Études humanistes).
+Matériel pédagogique du cours de Littérature française 2025-2026 dispensé à l'Université de Ferrare (Département des Études humanistes).
 
 ## Année académique
 2025–2026
